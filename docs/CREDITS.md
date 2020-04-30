@@ -10,3 +10,4 @@ Thanks to the **Geometry Dash Programming** experts, and the **GDDocs** contribu
 - [Blaze](https://github.com/13laze)
 - [Colon](https://github.com/GDColon)
 - [AlFas](https://github.com/AlFasGD)
+- [Cos8o](https://githubc.com/Cos8o)
